@@ -1,0 +1,8 @@
+name: MazeSolve
+main: main.java.com.trophonix.mazesolve.Main
+version: 0.1a
+author: Trophonix
+commands:
+    ai:
+        description: Create a maze solver AI
+        usage: /<command>
